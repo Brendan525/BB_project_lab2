@@ -1,4 +1,7 @@
 Line of text
-A
-B
-C
+A => B
+B => C
+C => D
+Therefore A => D
+Transitive property in action.
+This is an amazing property.
