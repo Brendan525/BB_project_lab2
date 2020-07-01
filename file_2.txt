@@ -1,2 +1,3 @@
+New line
 One line of code
 two lines of code
